@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/king-open/iUI/issues"
   },
-  "homepage": "https://github.com/king-open/iUI#readme"
+  "homepage": "https://github.com/king-open/iUI#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
 }
